@@ -1,0 +1,15 @@
+D:\BA IT\Birds\Birds\Birds\bin\Debug\net6.0\Birds.exe
+D:\BA IT\Birds\Birds\Birds\bin\Debug\net6.0\Birds.deps.json
+D:\BA IT\Birds\Birds\Birds\bin\Debug\net6.0\Birds.runtimeconfig.json
+D:\BA IT\Birds\Birds\Birds\bin\Debug\net6.0\Birds.dll
+D:\BA IT\Birds\Birds\Birds\bin\Debug\net6.0\Birds.pdb
+D:\BA IT\Birds\Birds\Birds\obj\Debug\net6.0\Birds.csproj.AssemblyReference.cache
+D:\BA IT\Birds\Birds\Birds\obj\Debug\net6.0\Birds.GeneratedMSBuildEditorConfig.editorconfig
+D:\BA IT\Birds\Birds\Birds\obj\Debug\net6.0\Birds.AssemblyInfoInputs.cache
+D:\BA IT\Birds\Birds\Birds\obj\Debug\net6.0\Birds.AssemblyInfo.cs
+D:\BA IT\Birds\Birds\Birds\obj\Debug\net6.0\Birds.csproj.CoreCompileInputs.cache
+D:\BA IT\Birds\Birds\Birds\obj\Debug\net6.0\Birds.dll
+D:\BA IT\Birds\Birds\Birds\obj\Debug\net6.0\refint\Birds.dll
+D:\BA IT\Birds\Birds\Birds\obj\Debug\net6.0\Birds.pdb
+D:\BA IT\Birds\Birds\Birds\obj\Debug\net6.0\Birds.genruntimeconfig.cache
+D:\BA IT\Birds\Birds\Birds\obj\Debug\net6.0\ref\Birds.dll
